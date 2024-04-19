@@ -1,4 +1,4 @@
-# selfmade-PayPal-OTP-Bot for Telegram!
+# selfmade-PayPal-OTP-Bot for Telegram by OrangeJuice!
 it's a simple, effective, selfmade OTP-BOT spezialized on PayPal, you can bypass 2fa with it, may be working with other Services.
 
 # how to Setup?
